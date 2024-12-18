@@ -1,4 +1,4 @@
-[![ MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](ishankumar.me)
+[![ MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/Allmight-456?tab=repositories)
 <h1 align="center">Konnichiwa Devs👋, Ishan this side</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 
